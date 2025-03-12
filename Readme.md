@@ -36,3 +36,8 @@ este es para un rebase
 
 
 esta es una orueba
+
+
+
+ss
+esta es una prueba para elss stash
